@@ -1,0 +1,9 @@
+[
+  {
+    "date": "2026-11-19",
+    "games": 5,
+    "points_excluding_free_throws": 17,
+    "three_pointers": { "made": 3, "attempted": 4 },
+    "two_pointers": { "made": 4, "attempted": 7, "approximate": true }
+  }
+]
